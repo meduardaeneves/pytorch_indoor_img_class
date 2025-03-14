@@ -53,3 +53,4 @@ Para solucionar o problema em questão, este projeto optou por fragmentar a o de
 
 # Consclusão
 - De posse dos resultados é possível concluir que o modelo apresentou resultados aceitáveis, com acurácia acima de 67%, porém não excelentes.
+- O grupo de imagens que apresentou maior problemas na hora de classificar foi de classe "41" (livingroom), sendo confundida com a classe "6" (bedroom)
